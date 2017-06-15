@@ -1,24 +1,24 @@
 # BaiduPictureCrawler
 
-Author:
+作者 Author:
 ------
 Muguet(小小强), BobWang
 
-Function:
+功能 Function:
 --------
 爬取百度图片 
 Parse and Download the picture from baidupicture.(image.baidu.com）
 
-环境Language:
+环境语言 Programming Language:
 -----------
 Python2.7 
 
-安装方法:
+安装方法 Installation:
 -----------
 1.打开terminal，输入git clone https://github.com/BobWang01/BaiduPictureCrawler.git 文件会自动存在用户目录。   
 2.打开链接https://github.com/BobWang01/BaiduPictureCrawler 点绿色按钮，选择Download ZIP，下载压缩文件，然后使用解压软件打开。
 
-使用方法：
+使用方法 Instructions：
 -----------
 1.MacOs系统用户可直接打开parse程序， 其他系统用户需打开Python文件使用。   
 2.运行后输入图片搜索关键词。  
